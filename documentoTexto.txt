@@ -2,3 +2,8 @@ documento de texto inicial.
 Un archivo de texto simple, texto sencillo o texto sin formato (también llamado texto plano o texto simple; 
 en inglés «plain text»), es un archivo informático que contiene únicamente texto formado solo por caracteres 
 que son legibles por humanos y carece de cualquier tipo de formato tipográfico.
+
+Los documentos de texto plano son legibles por humanos -a diferencia de los archivos binarios- , 
+son usados en ocasiones por ciertos programas como una forma de almacenamiento de los datos. 
+La ventaja que este tipo de ficheros ofrece, además de la interoperabilidad (ya que es un formato universal), 
+es que un usuario puede acceder a los datos y modificar las variables para personalizar el programa. 
